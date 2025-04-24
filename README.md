@@ -51,7 +51,7 @@ When the evaluation is completed, metrics will be saved to csv files located at 
 
 ## Dataset and Training
 ### E2E Parking Dataset
-Please refer to [e2e-parking-carla-dataset]([https://arxiv.org/abs/2504.10812](https://github.com/KejiaGao/e2e-parking-carla-dataset)).
+Please refer to [e2e-parking-carla-dataset](https://github.com/KejiaGao/e2e-parking-carla-dataset).
 
 ### Training Data Generation
 The original authors have provided the tools for manual parking data generation, which is the way I create the dataset. 
