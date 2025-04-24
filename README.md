@@ -4,7 +4,7 @@
 This repository contains the code for the paper 
 [Enhancing End-to-End Autonomous Parking with Correction of Timed Automaton](https://arxiv.org/abs/2504.10812).
 
-This work is based on previous works [E2E Parking: Autonomous Parking by the End-to-end Neural Network on the CARLA Simulator](https://github.com/qintonguav/e2e-parking-carla) and Enhancing End-to-End Autonomous Parking with Correction of Timed Automaton. By integrating rule-based correction into end-to-end Transformer model, the hybrid framework achieves a state-of-the-art performance. The closed-loop evaluation is conducted on CARLA simulator 0.9.11. Utilizing the same original model architecture, the model trained on E2E Parking dataset with timed automaton achieves an overall Target Success Rate (TSR) of 97.66%, which significantly exceeds the results reported by the original authors.
+This work is based on previous works [E2E Parking: Autonomous Parking by the End-to-end Neural Network on the CARLA Simulator](https://github.com/qintonguav/e2e-parking-carla) and [E2E Parking Dataset: An Open Benchmark for End-to-End Autonomous Parking](https://github.com/KejiaGao/e2e-parking-carla-dataset). By integrating rule-based correction into end-to-end Transformer model, the hybrid framework achieves a state-of-the-art performance. The closed-loop evaluation is conducted on CARLA simulator 0.9.11. Utilizing the same original model architecture, the model trained on E2E Parking dataset with timed automaton achieves an overall Target Success Rate (TSR) of 97.66%, which significantly exceeds the results reported by the original authors.
 
 
 ## Setup
