@@ -12,7 +12,7 @@ This work is based on previous works [E2E Parking: Autonomous Parking by the End
 Clone the repo, setup CARLA 0.9.11, and build the conda environment:
 
 ```Shell
-git clone https://github.com/KejiaGao/e2e-parking-carla-dataset.git
+git clone https://github.com/KejiaGao/e2e-parking-carla-timed-automaton.git
 cd e2e-parking-carla-dataset/
 conda env create -f environment.yml
 conda activate E2EParking
