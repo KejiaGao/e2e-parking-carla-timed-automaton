@@ -13,7 +13,7 @@ Clone the repo, setup CARLA 0.9.11, and build the conda environment:
 
 ```Shell
 git clone https://github.com/KejiaGao/e2e-parking-carla-timed-automaton.git
-cd e2e-parking-carla-dataset/
+cd e2e-parking-carla-timed-automaton/
 conda env create -f environment.yml
 conda activate E2EParking
 chmod +x setup_carla.sh
